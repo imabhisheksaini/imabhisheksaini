@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @imabhisheksaini  
+- 👀 I’m interested in bug bounty hunting, MERN stack development, and solving complex DSA problems.  
+- 🌱 I’m currently learning advanced cybersecurity techniques and creating interactive web experiences.  
+- 💞️ I’m looking to collaborate on innovative web development projects, bug bounty challenges, and open-source contributions.  
+- 📫 How to reach me: abhayranjan404@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’ve earned bounties from Apple, Ford, and several other MNCs for identifying security vulnerabilities!  
